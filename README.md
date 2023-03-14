@@ -11,5 +11,5 @@ aprender a utilizar las herramientas de Microsoft para el análisis de
 datos y la ciencia de datos.
 
 <p align="center">
-  <img src="dates_Microsoft.jpeg" />
+  <img src="dates_Mircosoft.jpeg" />
 </p>
